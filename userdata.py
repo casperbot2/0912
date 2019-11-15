@@ -3,10 +3,10 @@ details = {
     "name" : "User Credentials",
     "creator" : "Default",
     "execname" : "details", #required even if script is not executable
-    "isBot" : 0, #0 = login to discord account, 1 = login to discord bot
+    "isBot" : 1, #0 = login to discord account, 1 = login to discord bot
     "email" : "email",
     "password" : "password",
-    "botToken" : "" #leave empty if using a discord acc
+    "botToken" : "NjMzMzg5MTI0NTk3OTczMDAz.Xc0n5Q.rbf1PCpDd0MFHH0Lr1OXT73f7Hs" #leave empty if using a discord acc
 }
 
 channelDetails = {
@@ -14,7 +14,7 @@ channelDetails = {
     "name" : "Channel Details",
     "creator" : "Default",
     "execname" : "channeldetails",
-    "channelId" : 453226417782784000
+    "channelId" : 643664081873666080
 }
 
 testScript = {
